@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "八神",
+  "base_artist": "大漠波新",
+  "createdAt": "2026-03-09T18:26:32.327615Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "八神",
+      "artist": "大漠波新",
+      "has_synced": false,
+      "path": "select/pl_01_八神_大漠波新.txt"
+    }
+  ]
+}
